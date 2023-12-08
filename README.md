@@ -26,7 +26,7 @@ This plugin provides the following features:
 ```vimscript
 call plug#begin('~/.vim/plugged')
 Plug 'prabirshrestha/vim-lsp'
-Plug 'terramate-io/vim-terramate', {'branch': 'init'}
+Plug 'terramate-io/vim-terramate'
 call plug#end()
 ```
 
